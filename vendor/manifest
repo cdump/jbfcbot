@@ -1,0 +1,41 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/Sirupsen/logrus",
+			"repository": "https://github.com/Sirupsen/logrus",
+			"revision": "5e5dc898656f695e2a086b8e12559febbfc01562",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/go-telegram-bot-api/telegram-bot-api",
+			"repository": "https://github.com/go-telegram-bot-api/telegram-bot-api",
+			"revision": "9dda67c714e5e2cba837b28a0172cca2ed54f078",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/sirupsen/logrus",
+			"repository": "https://github.com/sirupsen/logrus",
+			"revision": "5e5dc898656f695e2a086b8e12559febbfc01562",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/technoweenie/multipartstreamer",
+			"repository": "https://github.com/technoweenie/multipartstreamer",
+			"revision": "a90a01d73ae432e2611d178c18367fbaa13e0154",
+			"branch": "master"
+		},
+		{
+			"importpath": "gopkg.in/airbrake/gobrake.v2",
+			"repository": "https://gopkg.in/airbrake/gobrake.v2",
+			"revision": "668876711219e8b0206e2994bf0a59d889c775aa",
+			"branch": "master"
+		},
+		{
+			"importpath": "gopkg.in/gemnasium/logrus-airbrake-hook.v2",
+			"repository": "https://gopkg.in/gemnasium/logrus-airbrake-hook.v2",
+			"revision": "bfee1239d796830ca346767650cce5ba90d58c57",
+			"branch": "master"
+		}
+	]
+}
